@@ -1,0 +1,17 @@
+*{
+    background-color:lightgreen;
+}
+p{
+    color:green;
+    text-align:center;
+}
+#para{
+    color:red;
+    text-align:center;
+}
+.demo{
+    color:brown;
+}
+p:hover{
+    color:hotpink;
+}
